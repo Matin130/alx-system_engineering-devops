@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv BEST="school"
+~> printenv BEST="School"
