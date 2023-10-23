@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep -c '^d' PATH
+ls | grep -c '^d' $PATH
